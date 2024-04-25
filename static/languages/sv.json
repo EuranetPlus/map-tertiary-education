@@ -1,6 +1,6 @@
 {
-  "heading": "Hur hög är andelen personer i åldern 25–34 med högskoleutbildning i alla EU-länder?",
-  "subheading": "EU har hävdat en målnivå på 45 % för högre utbildning fram till 2030. Från och med 2022 hade mer än 40 % av personer i åldern 25–34 år i EU27 slutfört högre utbildning. Eftergymnasial utbildning är relevant för att förbättra sysselsättningsmöjligheter och samhälleligt deltagande.",
+  "heading": "Hur stor andel av unga européer är utexaminerade?",
+  "subheading": "År 2022 hade mer än 40 % av personer i åldern 25–34 i EU27 slutfört högre utbildning. EU:s mål för högre utbildning är 45 % till 2030.",
   "legend1": "Ingen data tillgänglig",
   "tooltip1": "25-34 år med högre utbildning",
   "textSourceDescription": "Källa",
@@ -9,23 +9,5 @@
   "textNote": "Högskoleutbildning, dvs utbildning som ges av universitet och andra högskolor.",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
-  "textCountryClick": "Klicka för mer info",
-  "extraInfoText_BE": "Eftersom behovet av enhällighet orsakar en byråkratisk flaskhals på många områden, finns det en viss logik att gå mot omröstning med kvalificerad majoritet där så är möjligt. I praktiken är kvalificerad majoritet när 15 av de 27 medlemsländerna röstar för något, så länge de tillsammans representerar mer än 65 procent av EU:s 450 miljoner medborgare.",
-  "extraInfoLink_BE": "Läs mer",
-  "extraInfoText_DE": "Det är förmodligen ingen slump att EU-kommissionen bara två dagar senare meddelade att den äntligen skulle utlösa villkorsmekanismen, som kopplar utbetalningen av EU-medel till respekten för rättsstatsprincipen. Budapest möter kritik för begränsningar av mediefrihet, intressekonflikter och korruption.",
-  "extraInfoLink_DE": "Läs mer",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "I detta sammanhang har den bulgariska regeringen inrättat en ny enhet för medieövervakning. Den nya enheten är utformad för att övervaka alla former av media för riktad desinformation men – till skillnad från landets oberoende Council for Electronic Media – har inte makten att reglera eller sanktionera. Och det borde det inte heller, betonar Bozhanov i en intervju med Bulgarian National Radio.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "Gašper Dovžan, statssekreterare vid Sloveniens utrikesministerium och medlem i konferenskommittén, säger att Slovenien verkligen inte drar sig för modiga beslut eller förkastar möjligheten till en övergång till kvalificerad majoritet. Han menar dock att det fortfarande finns en plats för konsensusbeslut.",
-  "extraInfoLink_IT": "Mer information",
-  "extraInfoText_LU": "Ändå är den luxemburgske parlamentsledamoten Marc Angel övertygad om att fördragsändringar är absolut nödvändiga – inte bara för att göra beslutsfattande förfaranden mindre krångliga, utan också för att vidga EU:s behörighetsområde. Han hävdar, i en intervju med Luxemburgs nationella programföretag 100,7, att EU-medborgare tydligt bad om detta under konferensprocessen.",
-  "extraInfoLink_LU": "Läs mer",
-  "extraInfoText_PL": "Liutauras Gudzinskas, professor i statsvetenskap vid Vilnius universitet, säger till Žinių Radijas att även om EU-kommissionens förslag att stärka mediernas mångfald och oberoende och skydda dem från politisk eller affärsmässig inblandning kan vara ett användbart förebyggande verktyg i många länder, är det troligt. för sent för Ungern.",
-  "extraInfoLink_PL": "Mer information",
-  "extraInfoText_RO": "Trots att det är världspressfrihetsdagen den 3 maj, firar Litauen pressfriheten varje år den 7 maj – eftersom detta datum markerar slutet på tsarförbudet mot publicering och distribution av böcker på litauiska.",
-  "extraInfoLink_RO": "Kolla detta",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Klicka för mer info"
 }

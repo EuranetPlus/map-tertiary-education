@@ -1,6 +1,6 @@
 {
-  "heading": "Aký vysoký je podiel ľudí vo veku 25 – 34 rokov s vysokoškolským vzdelaním vo všetkých krajinách EÚ?",
-  "subheading": "EÚ požadovala cieľovú úroveň 45 % dosiahnutia terciárneho vzdelania do roku 2030. Od roku 2022 malo ukončené terciárne vzdelanie viac ako 40 % osôb vo veku 25 – 34 rokov v EÚ27. Terciárne vzdelávanie je dôležité pre zlepšenie pracovných príležitostí a spoločenskej účasti.",
+  "heading": "Aký podiel mladých Európanov tvoria absolventi?",
+  "subheading": "V roku 2022 viac ako 40 % ľudí vo veku 25 – 34 rokov v EÚ27 ukončilo vysokoškolské vzdelanie. Cieľ EÚ pre terciárne vzdelávanie je 45 % do roku 2030.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "vo veku 25 až 34 rokov s dosiahnutým terciárnym vzdelaním",
   "textSourceDescription": "Zdroj",
@@ -9,23 +9,5 @@
   "textNote": "Terciárne vzdelávanie, t. j. vzdelávanie poskytované univerzitami a inými vysokými školami.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
-  "textCountryClick": "Kliknite pre viac informácií",
-  "extraInfoText_BE": "Keďže potreba jednomyseľnosti spôsobuje v mnohých oblastiach byrokratickú prekážku, existuje určitá logika smerovania k hlasovaniu kvalifikovanou väčšinou tam, kde je to možné. V praxi kvalifikovaná väčšina znamená, že za niečo hlasuje 15 z 27 členských štátov, pokiaľ spolu predstavujú viac ako 65 percent zo 450 miliónov občanov EÚ.",
-  "extraInfoLink_BE": "Čítaj viac",
-  "extraInfoText_DE": "Asi nie je náhoda, že len o dva dni Európska komisia oznámila, že konečne spustí mechanizmus podmienenosti, ktorý spája vyplácanie eurofondov s dodržiavaním zásad právneho štátu. Budapešť čelí kritike za obmedzovanie slobody médií, konflikty záujmov a korupciu.",
-  "extraInfoLink_DE": "Čítaj viac",
-  "extraInfoText_ES": "",
-  "extraInfoLink_ES": "",
-  "extraInfoText_FR": "V tejto súvislosti bulharská vláda zriadila novú jednotku monitorovania médií. Nová jednotka je navrhnutá tak, aby monitorovala všetky formy médií z hľadiska cielených dezinformácií, ale – na rozdiel od nezávislej Rady pre elektronické médiá v krajine – nemá právomoc regulovať alebo sankcionovať. A ani by nemalo, zdôrazňuje Bozhanov v rozhovore pre bulharský národný rozhlas.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_IT": "Gašper Dovžan, štátny tajomník slovinského ministerstva zahraničných vecí a člen konferenčného výboru, hovorí, že Slovinsko sa rozhodne nevyhýba odvážnym rozhodnutiam ani neodmieta možnosť posunu ku kvalifikovanej väčšine. Verí však, že stále existuje priestor na konsenzusné rozhodovanie.",
-  "extraInfoLink_IT": "Viac informácií",
-  "extraInfoText_LU": "Luxemburský europoslanec Marc Angel je však presvedčený, že zmeny v zmluve sú absolútne nevyhnutné – nielen preto, aby boli rozhodovacie postupy menej ťažkopádne, ale aj preto, aby sa rozšírila sféra kompetencií EÚ. V rozhovore pre luxemburskú národnú vysielaciu stanicu 100,7 tvrdí, že občania EÚ to počas konferencie jasne žiadali.",
-  "extraInfoLink_LU": "Čítaj viac",
-  "extraInfoText_PL": "Liutauras Gudzinskas, profesor politických vied na univerzite vo Vilniuse, hovorí Žinių Radijas, že hoci návrh Európskej komisie posilniť pluralitu a nezávislosť médií a chrániť ich pred politickými alebo obchodnými zásahmi by mohol byť užitočným preventívnym nástrojom v mnohých krajinách, je pravdepodobné, pre Maďarsko neskoro.",
-  "extraInfoLink_PL": "Viac informácií",
-  "extraInfoText_RO": "Hoci je Svetový deň slobody tlače 3. mája, Litva oslavuje slobodu tlače každý rok 7. mája – pretože tento dátum znamená koniec cárskeho zákazu vydávania a distribúcie kníh v litovčine.",
-  "extraInfoLink_RO": "Skontroluj to",
-  "extraInfoText_SE": "",
-  "extraInfoLink_SE": ""
+  "textCountryClick": "Kliknite pre viac informácií"
 }
