@@ -1,13 +1,13 @@
 {
-  "heading": "Kokia dalis jaunų europiečių yra absolventai?",
-  "subheading": "2022 m. daugiau nei 40 % 25–34 metų žmonių ES-27 buvo įgiję aukštąjį išsilavinimą. ES aukštojo mokslo tikslas – 45 proc., iki 2030 m.",
+  "heading": "Kokia jaunų europiečių dalis yra absolventai?",
+  "subheading": "2022 m. daugiau nei 40 % 25–34 metų amžiaus žmonių ES 27 valstybėse narėse turėjo aukštąjį išsilavinimą. ES tikslas, kad iki 2030 m. aukštojo mokslo lygis pasiektų 45 %.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "25–34 metų amžiaus, įgiję aukštąjį išsilavinimą",
+  "tooltip1": "25–34 metų amžiaus asmenys, įgiję aukštąjį išsilavinimą",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Aukštasis išsilavinimas, t. y. universitetų ir kitų aukštųjų mokyklų teikiamas išsilavinimas.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Aukštasis išsilavinimas, t. y. universitetų ir kitų aukštojo mokslo įstaigų teikiamas išsilavinimas.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

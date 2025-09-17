@@ -1,13 +1,13 @@
 {
   "heading": "X'proporzjon ta' żgħażagħ Ewropej huma gradwati?",
-  "subheading": "Fl-2022, aktar minn 40 % tan-nies ta’ bejn il-25 u l-34 sena fl-UE27 kienu temmew l-edukazzjoni għolja. Il-mira tal-UE għall-edukazzjoni terzjarja hija 45% sal-2030.",
+  "subheading": "Fl-2022, aktar minn 40% tal-persuni ta’ bejn il-25 u l-34 sena fl-UE27 kienu lestew l-edukazzjoni għolja. Il-mira tal-UE għall-edukazzjoni terzjarja hija ta’ 45% sal-2030.",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltip1": "ta’ 25-34 età b’kisba edukattiva terzjarja",
+  "tooltip1": "ta’ bejn il-25 u l-34 sena b’livell ta’ edukazzjoni terzjarja",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Edukazzjoni terzjarja jiġifieri edukazzjoni pprovduta minn universitajiet u istituzzjonijiet oħra ta’ edukazzjoni għolja.",
-  "textDataAccess": "Aċċessa għad-data",
+  "textNote": "Edukazzjoni terzjarja jiġifieri edukazzjoni pprovduta minn universitajiet u istituzzjonijiet oħra ta' edukazzjoni għolja.",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

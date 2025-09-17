@@ -1,13 +1,13 @@
 {
-  "heading": "Cén céatadán d’Eorpaigh óga ar céimithe iad?",
-  "subheading": "In 2022, bhí an t-ardoideachas críochnaithe ag níos mó ná 40% de na daoine idir 25-34 bliain d’aois san AE27. Is é 45% faoi 2030 sprioc an AE maidir le hoideachas tríú leibhéal.",
+  "heading": "Cén cion de dhaoine óga san Eoraip atá ina gcéimithe?",
+  "subheading": "Sa bhliain 2022, bhí ardoideachas críochnaithe ag níos mó ná 40% de dhaoine idir 25-34 bliana d'aois san AE27. Is é 45% sprioc an AE maidir le hoideachas tríú leibhéal faoi 2030.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "de 25-34 bliain d'aois le gnóthachtáil oideachais tríú leibhéal",
+  "tooltip1": "de 25-34 bliain d'aois a bhfuil oideachas tríú leibhéal bainte amach acu",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Oideachas treasach i.e. oideachas a sholáthraíonn ollscoileanna agus institiúidí ardoideachais eile.",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "textNote": "Oideachas tríú leibhéal i.e. oideachas a sholáthraíonn ollscoileanna agus institiúidí ardoideachais eile.",
+  "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

@@ -1,13 +1,13 @@
 {
-  "heading": "Ce proporție de tineri europeni sunt absolvenți?",
-  "subheading": "În 2022, peste 40% dintre persoanele cu vârsta cuprinsă între 25 și 34 de ani din UE27 au absolvit studii superioare. Ținta UE pentru învățământul terțiar este de 45% până în 2030.",
-  "legend1": "Nici o informatie disponibila",
+  "heading": "Ce proporție dintre tinerii europeni sunt absolvenți?",
+  "subheading": "În 2022, peste 40% dintre persoanele cu vârsta cuprinsă între 25 și 34 de ani din UE-27 absolviseră studii superioare. Obiectivul UE pentru învățământul terțiar este de 45% până în 2030.",
+  "legend1": "Nu sunt disponibile date",
   "tooltip1": "de 25-34 de ani cu studii superioare",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
-  "textNote": "Învățământul terțiar, adică învățământul oferit de universități și alte instituții de învățământ superior.",
+  "textNoteDescription": "Nota",
+  "textNote": "Învățământ terțiar, adică educația oferită de universități și alte instituții de învățământ superior.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=ro&category=t_educ.t_educ_outc",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

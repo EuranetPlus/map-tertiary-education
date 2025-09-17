@@ -1,13 +1,13 @@
 {
   "heading": "Jaki odsetek młodych Europejczyków to absolwenci?",
-  "subheading": "W 2022 r. ponad 40% osób w wieku 25–34 lat w UE27 posiadało wykształcenie wyższe. Cel UE w zakresie szkolnictwa wyższego wynosi 45% do 2030 r.",
+  "subheading": "W 2022 roku ponad 40% osób w wieku 25–34 lat w 27 państwach członkowskich UE posiadało wykształcenie wyższe. Docelowo UE dąży do osiągnięcia poziomu 45% osób z wykształceniem wyższym do 2030 roku.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "osób w wieku 25–34 lat z wykształceniem wyższym",
+  "tooltip1": "w wieku 25-34 lat z wykształceniem wyższym",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Szkolnictwo wyższe, tj. edukacja prowadzona przez uniwersytety i inne instytucje szkolnictwa wyższego.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Szkolnictwo wyższe, tj. kształcenie oferowane przez uniwersytety i inne instytucje szkolnictwa wyższego.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

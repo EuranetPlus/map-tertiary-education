@@ -1,12 +1,12 @@
 {
-  "heading": "Kui suur osa noortest eurooplastest on kooli lõpetanud?",
-  "subheading": "2022. aastal oli enam kui 40% 25–34-aastastest EL27 inimestest omandanud kõrghariduse. ELi eesmärk kolmanda taseme hariduse osas on 2030. aastaks 45%.",
-  "legend1": "Andmed puuduvad",
-  "tooltip1": "25–34-aastased kolmanda taseme haridusega",
+  "heading": "Kui suur osa noortest eurooplastest on lõpetanud ülikooli?",
+  "subheading": "2022. aastal oli EL 27-s enam kui 40%-l 25–34-aastastest inimestest kõrgharidus. ELi eesmärk on kolmanda taseme hariduse omandamise osas 2030. aastaks 45%.",
+  "legend1": "Andmed pole saadaval",
+  "tooltip1": "25–34-aastastest, kellel on kõrgharidus",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
-  "textNoteDescription": "Märge",
-  "textNote": "Kolmanda taseme haridus, st ülikoolide ja teiste kõrgkoolide poolt antav haridus.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Kolmanda taseme haridus st ülikoolide ja teiste kõrgharidusasutuste pakutav haridus.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

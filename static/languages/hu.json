@@ -1,13 +1,13 @@
 {
   "heading": "A fiatal európaiak hány százaléka diplomás?",
-  "subheading": "2022-ben az EU-27-ben a 25–34 évesek több mint 40%-a szerzett felsőfokú végzettséget. Az EU felsőoktatási célkitűzése 2030-ra 45 százalék.",
-  "legend1": "Nincs elérhető adat",
-  "tooltip1": "felsőfokú végzettséggel rendelkező 25-34 évesek",
+  "subheading": "2022-ben az EU27 25 és 34 év közötti lakosságának több mint 40%-a rendelkezett felsőfokú végzettséggel. Az EU felsőfokú végzettségre vonatkozó célkitűzése 2030-ra 45%.",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "25-34 éves, felsőfokú végzettséggel rendelkezők",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
-  "textNote": "Felsõfokú oktatás, azaz egyetemek és más felsõoktatási intézmények által nyújtott oktatás.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Felsőoktatás, azaz egyetemek és más felsőoktatási intézmények által nyújtott képzés.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Kuinka suuri osa nuorista eurooppalaisista on valmistuneita?",
-  "subheading": "Vuonna 2022 yli 40 % 25–34-vuotiaista EU27:ssä oli suorittanut korkea-asteen koulutuksen. EU:n korkea-asteen koulutuksen tavoite on 45 prosenttia vuoteen 2030 mennessä.",
-  "legend1": "Tietoja ei ole saatavilla",
-  "tooltip1": "25–34-vuotiaat, joilla on korkea-asteen koulutus",
+  "subheading": "Vuonna 2022 yli 40 prosentilla EU27-maiden 25–34-vuotiaista oli korkeakoulututkinto. EU:n tavoite korkea-asteen koulutukselle on 45 prosenttia vuoteen 2030 mennessä.",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltip1": "25–34-vuotiaista, joilla on korkea-asteen koulutus",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
-  "textNote": "Korkea-asteen koulutus eli korkeakoulujen ja muiden korkeakoulujen tarjoama koulutus.",
+  "textNote": "Korkeakoulutus eli yliopistojen ja muiden korkeakoulujen tarjoama koulutus.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

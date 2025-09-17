@@ -1,13 +1,13 @@
 {
   "heading": "Cik liela daļa jauno eiropiešu ir absolventi?",
-  "subheading": "2022. gadā vairāk nekā 40% cilvēku vecumā no 25 līdz 34 gadiem ES-27 bija ieguvuši augstāko izglītību. ES mērķis augstākajai izglītībai ir 45% līdz 2030. gadam.",
-  "legend1": "Nav pieejami dati",
-  "tooltip1": "25–34 gadus veci ar augstāko izglītību",
+  "subheading": "2022. gadā vairāk nekā 40 % iedzīvotāju vecumā no 25 līdz 34 gadiem ES 27 bija ieguvuši augstāko izglītību. ES mērķis attiecībā uz augstāko izglītību ir 45 % līdz 2030. gadam.",
+  "legend1": "Dati nav pieejami",
+  "tooltip1": "25–34 gadu vecumā ar augstāko izglītību",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "Augstākā izglītība, t.i., izglītība, ko nodrošina universitātes un citas augstākās izglītības iestādes.",
+  "textNote": "Augstākā izglītība, t. i., izglītība, ko sniedz universitātes un citas augstākās izglītības iestādes.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

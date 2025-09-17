@@ -1,13 +1,13 @@
 {
   "heading": "Hur stor andel av unga européer är utexaminerade?",
-  "subheading": "År 2022 hade mer än 40 % av personer i åldern 25–34 i EU27 slutfört högre utbildning. EU:s mål för högre utbildning är 45 % till 2030.",
-  "legend1": "Ingen data tillgänglig",
-  "tooltip1": "25-34 år med högre utbildning",
+  "subheading": "År 2022 hade mer än 40 % av personerna i åldern 25–34 år i EU27 avslutat högre utbildning. EU:s mål för högre utbildning är 45 % år 2030.",
+  "legend1": "Inga data tillgängliga",
+  "tooltip1": "av 25–34 år med högskoleutbildning",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "Högskoleutbildning, dvs utbildning som ges av universitet och andra högskolor.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Högre utbildning, d.v.s. utbildning som tillhandahålls av universitet och andra högre utbildningsinstitutioner.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

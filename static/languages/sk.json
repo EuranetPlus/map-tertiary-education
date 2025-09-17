@@ -1,12 +1,12 @@
 {
-  "heading": "Aký podiel mladých Európanov tvoria absolventi?",
-  "subheading": "V roku 2022 viac ako 40 % ľudí vo veku 25 – 34 rokov v EÚ27 ukončilo vysokoškolské vzdelanie. Cieľ EÚ pre terciárne vzdelávanie je 45 % do roku 2030.",
+  "heading": "Aký podiel mladých Európanov sú absolventi?",
+  "subheading": "V roku 2022 malo v EÚ-27 viac ako 40 % ľudí vo veku 25 – 34 rokov ukončené vysokoškolské vzdelanie. Cieľom EÚ v oblasti terciárneho vzdelávania je 45 % do roku 2030.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "vo veku 25 až 34 rokov s dosiahnutým terciárnym vzdelaním",
+  "tooltip1": "vo veku 25 – 34 rokov s ukončeným terciárnym vzdelaním",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Terciárne vzdelávanie, t. j. vzdelávanie poskytované univerzitami a inými vysokými školami.",
+  "textNote": "Terciárne vzdelávanie, t. j. vzdelávanie poskytované univerzitami a inými inštitúciami vyššieho vzdelávania.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
   "textCountryClick": "Kliknite pre viac informácií"

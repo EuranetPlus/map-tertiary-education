@@ -1,13 +1,13 @@
 {
-  "heading": "Qual è la percentuale dei giovani europei laureati?",
-  "subheading": "Nel 2022, oltre il 40% delle persone di età compresa tra 25 e 34 anni nell’Ue a 27 aveva completato l’istruzione superiore. L’obiettivo dell’UE per l’istruzione terziaria è del 45% entro il 2030.",
+  "heading": "Quale percentuale di giovani europei è laureata?",
+  "subheading": "Nel 2022, oltre il 40% delle persone di età compresa tra 25 e 34 anni nell'UE-27 aveva completato l'istruzione superiore. L'obiettivo dell'UE per l'istruzione terziaria è del 45% entro il 2030.",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "di età compresa tra 25 e 34 anni con titolo di studio terziario",
+  "tooltip1": "di età compresa tra 25 e 34 anni con un livello di istruzione terziaria",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Istruzione terziaria, ovvero l'istruzione fornita da università e altri istituti di istruzione superiore.",
+  "textNote": "Istruzione terziaria, ovvero l'istruzione fornita dalle università e da altri istituti di istruzione superiore.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
-  "textCountryClick": "Fare clic per maggiori informazioni"
+  "textCountryClick": "Clicca per maggiori informazioni"
 }

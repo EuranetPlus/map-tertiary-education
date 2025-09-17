@@ -1,13 +1,13 @@
 {
-  "heading": "¿Qué proporción de jóvenes europeos son graduados?",
-  "subheading": "En 2022, más del 40% de las personas de entre 25 y 34 años en la UE27 habían completado la educación superior. El objetivo de la UE para la educación terciaria es el 45% para 2030.",
-  "legend1": "Datos no disponibles",
-  "tooltip1": "de 25 a 34 años con educación terciaria",
+  "heading": "¿Qué proporción de jóvenes europeos son licenciados?",
+  "subheading": "En 2022, más del 40 % de las personas de entre 25 y 34 años en la UE-27 habían completado la educación superior. El objetivo de la UE para la educación terciaria es del 45 % para 2030.",
+  "legend1": "No hay datos disponibles",
+  "tooltip1": "de 25 a 34 años de edad con nivel educativo terciario",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Educación terciaria, es decir, educación impartida por universidades y otras instituciones de educación superior.",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
+  "textNote": "Educación terciaria, es decir, educación proporcionada por universidades y otras instituciones de educación superior.",
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=es&category=t_educ.t_educ_outc",
   "textCountryClick": "Haga clic para más información"
 }

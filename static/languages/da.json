@@ -1,13 +1,13 @@
 {
-  "heading": "Hvor stor en andel af unge europæere er kandidater?",
-  "subheading": "I 2022 havde mere end 40 % af personer i alderen 25-34 i EU27 afsluttet en videregående uddannelse. EU's mål for videregående uddannelse er 45 % i 2030.",
-  "legend1": "Ingen tilgængelig data",
-  "tooltip1": "på 25-34 år med en videregående uddannelse",
+  "heading": "Hvor stor en andel af unge europæere er færdiguddannede?",
+  "subheading": "I 2022 havde mere end 40 % af personer i alderen 25-34 år i EU27 gennemført en videregående uddannelse. EU's mål for videregående uddannelse er 45 % inden 2030.",
+  "legend1": "Ingen data tilgængelige",
+  "tooltip1": "af 25-34 år med en videregående uddannelse",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
-  "textNote": "Videregående uddannelse, dvs. uddannelse leveret af universiteter og andre videregående uddannelsesinstitutioner.",
-  "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
-  "textCountryClick": "Klik for mere info"
+  "textNoteDescription": "Note",
+  "textNote": "Videregående uddannelse, dvs. uddannelse udbudt af universiteter og andre videregående uddannelsesinstitutioner.",
+  "textDataAccess": "Få adgang til dataene",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=da&category=t_educ.t_educ_outc",
+  "textCountryClick": "Klik for mere information"
 }

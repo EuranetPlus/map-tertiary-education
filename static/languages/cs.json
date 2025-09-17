@@ -1,13 +1,13 @@
 {
-  "heading": "Jaký podíl mladých Evropanů tvoří absolventi?",
-  "subheading": "V roce 2022 více než 40 % lidí ve věku 25–34 let v EU27 dokončilo vysokoškolské vzdělání. Cíl EU pro terciární vzdělávání je 45 % do roku 2030.",
-  "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltip1": "ve věku 25-34 let s ukončeným terciárním vzděláním",
+  "heading": "Jaký podíl mladých Evropanů jsou absolventi?",
+  "subheading": "V roce 2022 mělo v EU-27 více než 40 % osob ve věku 25–34 let dokončené vysokoškolské vzdělání. Cílem EU v oblasti terciárního vzdělání je do roku 2030 dosáhnout 45 %.",
+  "legend1": "Žádné údaje k dispozici",
+  "tooltip1": "ve věku 25–34 let s dosaženým terciárním vzděláním",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Terciární vzdělávání, tedy vzdělávání poskytované univerzitami a jinými vysokými školami.",
+  "textNote": "Terciární vzdělávání, tj. vzdělávání poskytované univerzitami a jinými institucemi vyššího vzdělávání.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=cs&category=t_educ.t_educ_outc",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
   "textCountryClick": "Klikněte pro více informací"
 }

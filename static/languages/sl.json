@@ -1,13 +1,13 @@
 {
   "heading": "Kolikšen delež mladih Evropejcev je diplomantov?",
-  "subheading": "Leta 2022 je več kot 40 % ljudi, starih od 25 do 34 let, v EU27 imelo visokošolsko izobrazbo. Cilj EU za terciarno izobraževanje je 45 % do leta 2030.",
-  "legend1": "Podatki niso na voljo",
-  "tooltip1": "od 25 do 34 let s terciarno izobrazbo",
+  "subheading": "Leta 2022 je imelo več kot 40 % ljudi v EU-27, starih od 25 do 34 let, končano visokošolsko izobrazbo. Cilj EU za terciarno izobrazbo je 45 % do leta 2030.",
+  "legend1": "Ni na voljo podatkov",
+  "tooltip1": "starih od 25 do 34 let s terciarno izobrazbo",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "Terciarno izobraževanje je izobraževanje, ki ga izvajajo univerze in druge visokošolske ustanove.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textNote": "Terciarno izobraževanje, tj. izobraževanje, ki ga zagotavljajo univerze in druge visokošolske ustanove.",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
   "textCountryClick": "Kliknite za več informacij"
 }

@@ -1,13 +1,13 @@
 {
   "heading": "Koliki je udio mladih Europljana koji su diplomirali?",
-  "subheading": "Godine 2022. više od 40% ljudi u dobi od 25 do 34 godine u EU27 završilo je visoko obrazovanje. Cilj EU-a za tercijarno obrazovanje je 45% do 2030.",
+  "subheading": "U 2022. godini više od 40% ljudi u dobi od 25 do 34 godine u EU27 imalo je završeno visoko obrazovanje. Cilj EU-a za visoko obrazovanje je 45% do 2030. godine.",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "od 25-34 godine sa završenim tercijarnim obrazovanjem",
+  "tooltip1": "u dobi od 25 do 34 godine s visokoškolskim obrazovanjem",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Tercijarno obrazovanje tj. obrazovanje koje pružaju sveučilišta i druge visokoškolske ustanove.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Tercijarno obrazovanje, tj. obrazovanje koje pružaju sveučilišta i druge visokoškolske ustanove.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
   "textCountryClick": "Kliknite za više informacija"
 }
