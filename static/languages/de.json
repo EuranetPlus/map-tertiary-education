@@ -1,13 +1,13 @@
 {
   "heading": "Welcher Anteil der jungen Europäer hat einen Hochschulabschluss?",
-  "subheading": "Im Jahr 2022 hatten in der EU-27 mehr als 40 % der 25- bis 34-Jährigen einen Hochschulabschluss. Das EU-Ziel für den Hochschulabschluss liegt bei 45 % bis 2030.",
+  "subheading": "Im Jahr 2024 hatten mehr als 44 % der 25- bis 34-Jährigen in der EU-27 einen Hochschulabschluss. Das EU-Ziel für die Hochschulbildung liegt bei 45 % bis 2030.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "von 25-34 Jahren mit Hochschulabschluss",
+  "tooltip1": "von Personen im Alter von 25 bis 34 Jahren mit Hochschulabschluss",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "Tertiäre Bildung, d. h. Bildung, die von Universitäten und anderen Hochschulen angeboten wird.",
-  "textDataAccess": "Zugriff auf die Daten",
+  "textNote": "Tertiärbildung, d.h. die von Universitäten und anderen Hochschulen angebotene Bildung.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }

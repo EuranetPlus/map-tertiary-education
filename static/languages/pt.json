@@ -1,12 +1,12 @@
 {
-  "heading": "Qual a proporção de jovens europeus formados?",
-  "subheading": "Em 2022, mais de 40% das pessoas entre 25 e 34 anos na UE-27 haviam concluído o ensino superior. A meta da UE para o ensino superior é de 45% até 2030.",
-  "legend1": "Nenhum dado disponível",
+  "heading": "Qual a proporção de jovens europeus que possuem diploma de graduação?",
+  "subheading": "Em 2024, mais de 44% das pessoas entre 25 e 34 anos na UE27 tinham concluído o ensino superior. A meta da UE para o ensino superior é de 45% até 2030.",
+  "legend1": "Não há dados disponíveis.",
   "tooltip1": "de 25 a 34 anos com nível de escolaridade superior",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "Educação terciária, ou seja, educação fornecida por universidades e outras instituições de ensino superior.",
+  "textNote": "Ensino terciário, ou seja, educação oferecida por universidades e outras instituições de ensino superior.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
   "textCountryClick": "Clique para mais informações"

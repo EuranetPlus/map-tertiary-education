@@ -1,13 +1,13 @@
 {
-  "heading": "Welk percentage van de jonge Europeanen heeft een diploma?",
-  "subheading": "In 2022 had meer dan 40% van de 25- tot 34-jarigen in de EU27 een diploma hoger onderwijs behaald. De EU-doelstelling voor hoger onderwijs is 45% in 2030.",
+  "heading": "Welk percentage van de jonge Europeanen heeft een universitaire opleiding afgerond?",
+  "subheading": "In 2024 had meer dan 44% van de 25- tot 34-jarigen in de EU27 een hogere opleiding afgerond. De EU-doelstelling voor hoger onderwijs is 45% in 2030.",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "van 25-34 jaar met een hoger onderwijsniveau",
+  "tooltip1": "van 25-34 jaar met een tertiaire opleiding",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Tertiair onderwijs, d.w.z. onderwijs dat wordt verzorgd door universiteiten en andere instellingen voor hoger onderwijs.",
+  "textNote": "Tertiair onderwijs, oftewel onderwijs dat wordt aangeboden door universiteiten en andere instellingen voor hoger onderwijs.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
-  "textCountryClick": "Klik voor meer informatie"
+  "textCountryClick": "Klik hier voor meer informatie"
 }

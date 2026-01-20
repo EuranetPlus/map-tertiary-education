@@ -1,13 +1,13 @@
 {
-  "heading": "Quelle proportion de jeunes Européens sont diplômés ?",
-  "subheading": "En 2022, plus de 40 % des personnes âgées de 25 à 34 ans dans l'UE-27 avaient achevé des études supérieures. L'objectif de l'UE en matière d'enseignement supérieur est de 45 % d'ici 2030.",
+  "heading": "Quel est le pourcentage de jeunes Européens diplômés ?",
+  "subheading": "En 2024, plus de 44 % des personnes âgées de 25 à 34 ans dans l'UE-27 avaient achevé des études supérieures. L'objectif de l'UE pour l'enseignement supérieur est de 45 % d'ici à 2030.",
   "legend1": "Aucune donnée disponible",
-  "tooltip1": "de 25 à 34 ans ayant un niveau d'études supérieures",
+  "tooltip1": "de 25 à 34 ans ayant fait des études supérieures",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Enseignement supérieur, c'est-à-dire l'enseignement dispensé par les universités et autres établissements d'enseignement supérieur.",
+  "textNote": "L'enseignement supérieur, c'est-à-dire l'enseignement dispensé par les universités et autres établissements d'enseignement supérieur.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=fr&category=t_educ.t_educ_outc",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/sdg_04_20/default/table?lang=en&category=t_educ.t_educ_outc",
   "textCountryClick": "Cliquez pour plus d'informations"
 }
